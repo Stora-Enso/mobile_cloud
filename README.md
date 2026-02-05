@@ -13,3 +13,4 @@ Here are links to the currently available files:
 
 - [Tax Guide/2024.pdf](https://raw.githubusercontent.com/Stora-Enso/mobile_cloud/main/Tax%20Guide/2024.pdf)
 - [Tax Guide/2025.pdf](https://raw.githubusercontent.com/Stora-Enso/mobile_cloud/main/Tax%20Guide/2025.pdf)
+- [videos/background_location.mkv](http://raw.githubusercontent.com/Stora-Enso/mobile_cloud/main/videos/background_location.mkv)
